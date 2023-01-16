@@ -1,0 +1,21 @@
+.link-btn-disable{
+    pointer-events: none;
+    cursor: default;
+}
+
+.btn-dark{
+    background-color: #133a69;
+}
+
+.btn-outline-dark{
+    border: 1px solid #133a69;
+    color: #133a69;
+}
+
+th,td,button,input,a,li{
+ font-size: 14px!important;
+}
+
+td{
+    padding: 4px 8px !important;
+}
